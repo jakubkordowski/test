@@ -43,12 +43,14 @@ Bergov
 **Laughing Mad.** You have advantage on saving throws against spells from the Enchantment and Illusion school.  
 **Party Animal.** You have advantage on saving throws you make to avoid or end the poisoned condition on yourself. You also have resistance to poison damage.  
 **The Show.** You gain proficiency in one musical instrument of your choice.
-**Lineage.**\   
-==Winter Antlers.==\
+**Lineage.**
+
+==Winter Antlers.==
 **Ability Score Increase.** Your Wisdom score increases by 1.  
 **Royal Reminiscence.** You know one cantrip of your choice from the druid spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).  
-**Nature's Guidance.** You can move across non-magical difficult terrain without expanding extra movement.   
-==Summer Horns.==\  
+**Nature's Guidance.** You can move across non-magical difficult terrain without expanding extra movement. 
+
+==Summer Horns.==  
 **Ability Score Increase.** Your Strength score increases by 1.  
 **Roots of Old.** You know one cantrip of your choice from the warlock spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).  
 **Sure-footed.** You have a climbing speed equal to your movement speed and you can climb vertical surfaces without using your hands.
